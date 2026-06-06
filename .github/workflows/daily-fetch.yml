@@ -1,36 +1,30 @@
-name: Daily Places Fetch                   
-
+name: Daily Places Fetch
   on:
     schedule:
-      - cron: '0 11 * * *'   # 7am Orlando (EDT) / 8am EST = 11am UTC
-    workflow_dispatch:        # permite rodar manualmente
-
+      - cron: "0 11 * * *"                   
+    workflow_dispatch:
   permissions:
     contents: write
-  
-  jobs:                                      
-    fetch:                                                                                            
-      runs-on: ubuntu-latest
+  jobs:
+    fetch:                                   
+      runs-on: ubuntu-latest                                                                          
       steps:
         - uses: actions/checkout@v4
-
         - uses: actions/setup-node@v4
           with:
-            node-version: '20'
-                                             
-        - name: Fetch places from Google                                                              
-          env:
+            node-version: "20"
+        - name: Fetch places from Google     
+          env:                                                                                        
             GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
           run: node fetch-places.js
-
         - name: Commit if changed
           run: |
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"             
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add places.json
             if git diff --cached --quiet; then
-              echo "Sem mudanças"            
+              echo "Sem mudancas"                                                                     
             else
               git commit -m "chore: daily places update"
-              git push
-            fi                                 
+              git push                       
+            fi
