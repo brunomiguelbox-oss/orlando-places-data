@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:45:26.547Z",
+  "generatedAt": "2026-10-01T17:19:20.048Z",
   "bounds": {
     "low": {
       "latitude": 28.2,
@@ -21,6 +21,276 @@
           "lat": 28.4504681,
           "lon": -81.4714229,
           "phone": "(424) 444-1169",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJ47QDP3N754gRB8pqyXlWi5s",
+          "name": "McDonald's",
+          "address": "2504 S Orange Ave, Orlando, FL 32806, USA",
+          "lat": 28.5144265,
+          "lon": -81.376676,
+          "phone": "(407) 841-9472",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJK0HHkOVk54gRmuXgFAaKQRI",
+          "name": "McDonald's",
+          "address": "1505 S Semoran Blvd, Orlando, FL 32807, USA",
+          "lat": 28.524718200000002,
+          "lon": -81.3099045,
+          "phone": "(407) 207-5635",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJTQCVCrJl54gR9NVN5-1emX8",
+          "name": "McDonald's",
+          "address": "451 S Goldenrod Rd, Orlando, FL 32822, USA",
+          "lat": 28.5373654,
+          "lon": -81.2851823,
+          "phone": "(407) 381-3888",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJzc1Qjlp754gRukn0yLNoYEg",
+          "name": "McDonald's",
+          "address": "830 S Orange Blossom Trl, Orlando, FL 32805, USA",
+          "lat": 28.5318364,
+          "lon": -81.3977096,
+          "phone": "(407) 648-1846",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJr1m0XDd-54gRhSfk9dne8aM",
+          "name": "McDonald's",
+          "address": "9814 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.423785499999997,
+          "lon": -81.4613088,
+          "phone": "(407) 345-8996",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJJZIZGOd854gRaG_eI5c17ME",
+          "name": "McDonald's",
+          "address": "8060 S Orange Ave, Orlando, FL 32809, USA",
+          "lat": 28.452623499999998,
+          "lon": -81.3648217,
+          "phone": "(407) 855-6273",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJE5ZRPcV-54gRz2vyLfqJ6do",
+          "name": "McDonald's",
+          "address": "5400 S Kirkman Rd, Orlando, FL 32819, USA",
+          "lat": 28.484016,
+          "lon": -81.459341,
+          "phone": "(689) 326-1801",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJn9IJZON754gR3zLTZQlaX4s",
+          "name": "McDonald's",
+          "address": "3804 L B McLeod Rd, Orlando, FL 32805, USA",
+          "lat": 28.5084965,
+          "lon": -81.4228182,
+          "phone": "(407) 426-9898",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJb2ITWCxj54gRFJLMI3uSpbQ",
+          "name": "McDonald's",
+          "address": "3713 McCoy Rd, Orlando, FL 32812, USA",
+          "lat": 28.4520672,
+          "lon": -81.3368469,
+          "phone": "(407) 859-0431",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJNTn-06Z_54gRNL5fTfx1BCs",
+          "name": "McDonald's",
+          "address": "7344 W Sand Lake Rd, Orlando, FL 32819, USA",
+          "lat": 28.449527099999997,
+          "lon": -81.4801636,
+          "phone": "(407) 264-0770",
           "periods": [
             {
               "open": {
@@ -146,12 +416,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJzc1Qjlp754gRukn0yLNoYEg",
+          "id": "ChIJK6DcYmRj54gRDx7ddb0uTxI",
           "name": "McDonald's",
-          "address": "830 S Orange Blossom Trl, Orlando, FL 32805, USA",
-          "lat": 28.5318364,
-          "lon": -81.3977096,
-          "phone": "(407) 648-1846",
+          "address": "5685 S Semoran Blvd, Orlando, FL 32822, USA",
+          "lat": 28.4815951,
+          "lon": -81.3093437,
+          "phone": "(407) 275-3827",
           "periods": [
             {
               "open": {
@@ -173,278 +443,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJk_gdbABh54gRt1FhEAWGZt4",
-          "name": "McDonald’s",
-          "address": "5785 Lee Vista Blvd, Orlando, FL 32829, USA",
-          "lat": 28.478819599999998,
-          "lon": -81.24635769999999,
-          "phone": "(407) 477-5874",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 23,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 5:00 AM – 11:00 PM",
-            "Tuesday: 5:00 AM – 11:00 PM",
-            "Wednesday: 5:00 AM – 11:00 PM",
-            "Thursday: 5:00 AM – 11:00 PM",
-            "Friday: 5:00 AM – 11:00 PM",
-            "Saturday: 5:00 AM – 11:00 PM",
-            "Sunday: 5:00 AM – 11:00 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJr1m0XDd-54gRhSfk9dne8aM",
+          "id": "ChIJxY_tzKhk54gRs4inioG6tLg",
           "name": "McDonald's",
-          "address": "9814 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.423785499999997,
-          "lon": -81.4613088,
-          "phone": "(407) 345-8996",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJn9IJZON754gR3zLTZQlaX4s",
-          "name": "McDonald's",
-          "address": "3804 L B McLeod Rd, Orlando, FL 32805, USA",
-          "lat": 28.5084965,
-          "lon": -81.4228182,
-          "phone": "(407) 426-9898",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ47QDP3N754gRB8pqyXlWi5s",
-          "name": "McDonald's",
-          "address": "2504 S Orange Ave, Orlando, FL 32806, USA",
-          "lat": 28.5144265,
-          "lon": -81.376676,
-          "phone": "(407) 841-9472",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ6eXiIYVl54gRmoU-UUdYhRY",
-          "name": "McDonald's",
-          "address": "2701 E Colonial Dr, Orlando, FL 32803, USA",
-          "lat": 28.553766699999997,
-          "lon": -81.3487923,
-          "phone": "(407) 898-6879",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJPwiaVQ9854gRxbJ09ojlKmw",
-          "name": "McDonald's",
-          "address": "4075 Millenia Blvd, Orlando, FL 32839, USA",
-          "lat": 28.4915605,
-          "lon": -81.4295483,
-          "phone": "(407) 226-1622",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJE5ZRPcV-54gRz2vyLfqJ6do",
-          "name": "McDonald's",
-          "address": "5400 S Kirkman Rd, Orlando, FL 32819, USA",
-          "lat": 28.484016,
-          "lon": -81.459341,
-          "phone": "(689) 326-1801",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJl3bC9Wh854gR1tuAP9__Hck",
-          "name": "McDonald's",
-          "address": "5890 S Orange Blossom Trl, Orlando, FL 32839, USA",
-          "lat": 28.473267,
-          "lon": -81.39708259999999,
-          "phone": "(954) 302-3773",
+          "address": "5175 Conway Rd, Orlando, FL 32812, USA",
+          "lat": 28.481365399999998,
+          "lon": -81.33034339999999,
+          "phone": "(407) 856-6350",
           "periods": [
             {
               "open": {
@@ -493,224 +497,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJPwiaVQ9854gRmjkfy5-j41k",
+          "id": "ChIJ68somTx554gRVw9jercR3wg",
           "name": "McDonald's",
-          "address": "5107 S John Young Pkwy, Orlando, FL 32839, USA",
-          "lat": 28.4881443,
-          "lon": -81.4168641,
-          "phone": "(407) 851-5699",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJLZkRpPN-54gR-zsiA7jVa6I",
-          "name": "McDonald's",
-          "address": "5401 Altamira Dr, Orlando, FL 32819, USA",
-          "lat": 28.469350300000002,
-          "lon": -81.45105149999999,
-          "phone": "(689) 326-1804",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJK0HHkOVk54gRmuXgFAaKQRI",
-          "name": "McDonald's",
-          "address": "1505 S Semoran Blvd, Orlando, FL 32807, USA",
-          "lat": 28.524718200000002,
-          "lon": -81.3099045,
-          "phone": "(407) 207-5635",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJnaWUgjp654gRUHts5JyvfnY",
-          "name": "McDonald's",
-          "address": "3005 W Colonial Dr, Orlando, FL 32808, USA",
-          "lat": 28.553310000000003,
-          "lon": -81.41504499999999,
-          "phone": "(407) 286-1449",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ1YbDY7Z954gRq_I1C5_U_Uw",
-          "name": "McDonald's",
-          "address": "8475 S Orange Blossom Trl, Orlando, FL 32809, USA",
-          "lat": 28.441275400000002,
-          "lon": -81.40285159999999,
-          "phone": "(407) 857-1980",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 1,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 5:00 AM – 12:00 AM",
-            "Tuesday: 5:00 AM – 12:00 AM",
-            "Wednesday: 5:00 AM – 12:00 AM",
-            "Thursday: 5:00 AM – 12:00 AM",
-            "Friday: 5:00 AM – 1:00 AM",
-            "Saturday: 5:00 AM – 1:00 AM",
-            "Sunday: 5:00 AM – 12:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJySOM5w9654gRgZNSGgthv6g",
-          "name": "McDonald's",
-          "address": "2503 John Young Pkwy, Orlando, FL 32804, USA",
-          "lat": 28.5767372,
-          "lon": -81.41565709999999,
-          "phone": "(407) 299-4291",
+          "address": "2500 S Kirkman Rd Walmart, Orlando, FL 32811, USA",
+          "lat": 28.5154993,
+          "lon": -81.46274369999999,
+          "phone": "(954) 495-4238",
           "periods": [
             {
               "open": {
@@ -809,12 +601,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJNTn-06Z_54gRNL5fTfx1BCs",
+          "id": "ChIJPwiaVQ9854gRmjkfy5-j41k",
           "name": "McDonald's",
-          "address": "7344 W Sand Lake Rd, Orlando, FL 32819, USA",
-          "lat": 28.449527099999997,
-          "lon": -81.4801636,
-          "phone": "(407) 264-0770",
+          "address": "5107 S John Young Pkwy, Orlando, FL 32839, USA",
+          "lat": 28.4881443,
+          "lon": -81.4168641,
+          "phone": "(407) 851-5699",
           "periods": [
             {
               "open": {
@@ -861,12 +653,238 @@
             "Sunday: Open 24 hours"
           ],
           "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJ6eXiIYVl54gRmoU-UUdYhRY",
+          "name": "McDonald's",
+          "address": "2701 E Colonial Dr, Orlando, FL 32803, USA",
+          "lat": 28.553766699999997,
+          "lon": -81.3487923,
+          "phone": "(407) 898-6879",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJl3bC9Wh854gR1tuAP9__Hck",
+          "name": "McDonald's",
+          "address": "5890 S Orange Blossom Trl, Orlando, FL 32839, USA",
+          "lat": 28.473267,
+          "lon": -81.39708259999999,
+          "phone": "(954) 302-3773",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
         }
       ]
     },
     "burger-king": {
       "label": "Burger King",
       "locations": [
+        {
+          "id": "ChIJOTl_-O1-54gRokD6cizv7sQ",
+          "name": "Burger King",
+          "address": "5515 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.462733,
+          "lon": -81.4548801,
+          "phone": "(407) 345-0574",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 1,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:30 AM – 12:00 AM",
+            "Tuesday: 6:00 AM – 12:00 AM",
+            "Wednesday: 6:00 AM – 12:00 AM",
+            "Thursday: 6:00 AM – 12:00 AM",
+            "Friday: 6:00 AM – 1:00 AM",
+            "Saturday: 6:00 AM – 1:00 AM",
+            "Sunday: 6:00 AM – 12:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJzzHWaFV-54gRR9k2jy3D22g",
+          "name": "Burger King",
+          "address": "7667 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.4512817,
+          "lon": -81.47031779999999,
+          "phone": "(407) 351-1108",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:00 AM – 12:00 AM",
+            "Tuesday: 6:00 AM – 1:00 AM",
+            "Wednesday: 6:00 AM – 12:00 AM",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: 6:00 AM – 12:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
         {
           "id": "ChIJZxAGY3F754gR5Ho9ls5h6aI",
           "name": "Burger King",
@@ -972,119 +990,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJMaZbwO5k54gR_EpdsPKKU_I",
+          "id": "ChIJBR9KjjNl54gRFhIvV7q0adM",
           "name": "Burger King",
-          "address": "2222 S Semoran Blvd, Orlando, FL 32822, USA",
-          "lat": 28.518760600000004,
-          "lon": -81.3110161,
-          "phone": "(407) 275-9437",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJvw_cn81-54gRTCbyoNco0uM",
-          "name": "Burger King",
-          "address": "4622 S Kirkman Rd, Orlando, FL 32811, USA",
-          "lat": 28.4946789,
-          "lon": -81.4596105,
-          "phone": "(407) 299-8215",
-          "periods": [
-            {
-              "open": {
-                "day": 1,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 0,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 6:00 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 12:30 AM",
-            "Wednesday: 6:00 AM – 12:00 AM",
-            "Thursday: 6:00 AM – 12:00 AM",
-            "Friday: 6:00 AM – 12:00 AM",
-            "Saturday: Open 24 hours",
-            "Sunday: Closed"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJaTvDPud854gR0TQL-PNIIXc",
-          "name": "Burger King",
-          "address": "8091 S Orange Ave, Orlando, FL 32809, USA",
-          "lat": 28.452239199999998,
-          "lon": -81.3635123,
-          "phone": "(407) 857-5785",
+          "address": "3900 E Colonial Dr, Orlando, FL 32803, USA",
+          "lat": 28.553132899999998,
+          "lon": -81.3364059,
+          "phone": "(689) 239-8826",
           "periods": [
             {
               "open": {
@@ -1287,27 +1198,15 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJBR9KjjNl54gRFhIvV7q0adM",
+          "id": "ChIJvw_cn81-54gRTCbyoNco0uM",
           "name": "Burger King",
-          "address": "3900 E Colonial Dr, Orlando, FL 32803, USA",
-          "lat": 28.553132899999998,
-          "lon": -81.3364059,
-          "phone": "(689) 239-8826",
+          "address": "4622 S Kirkman Rd, Orlando, FL 32811, USA",
+          "lat": 28.4946789,
+          "lon": -81.4596105,
+          "phone": "(407) 299-8215",
           "periods": [
             {
               "open": {
-                "day": 0,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
                 "day": 1,
                 "hour": 6,
                 "minute": 0
@@ -1327,7 +1226,7 @@
               "close": {
                 "day": 3,
                 "hour": 0,
-                "minute": 0
+                "minute": 30
               }
             },
             {
@@ -1357,18 +1256,6 @@
             {
               "open": {
                 "day": 5,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
                 "hour": 6,
                 "minute": 0
               },
@@ -1381,194 +1268,126 @@
           ],
           "weekdayDescriptions": [
             "Monday: 6:00 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 12:00 AM",
+            "Tuesday: 6:00 AM – 12:30 AM",
             "Wednesday: 6:00 AM – 12:00 AM",
             "Thursday: 6:00 AM – 12:00 AM",
             "Friday: 6:00 AM – 12:00 AM",
-            "Saturday: 6:00 AM – 12:00 AM",
-            "Sunday: 6:00 AM – 12:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJzzHWaFV-54gRR9k2jy3D22g",
-          "name": "Burger King",
-          "address": "7667 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.4512817,
-          "lon": -81.47031779999999,
-          "phone": "(407) 351-1108",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 6:00 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 1:00 AM",
-            "Wednesday: 6:00 AM – 12:00 AM",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
             "Saturday: Open 24 hours",
-            "Sunday: 6:00 AM – 12:00 AM"
+            "Sunday: Closed"
           ],
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJpTyx5tV954gRI-XkfSEr7zk",
+          "id": "ChIJo9fJaQB954gRc5Ky4-5u_Sc",
           "name": "Burger King",
-          "address": "8409 S John Young Pkwy, Orlando, FL 32819, USA",
-          "lat": 28.444001399999998,
-          "lon": -81.4267926,
-          "phone": "(407) 903-0777",
+          "address": "8001 S Orange Blossom Trl, Orlando, FL 32809, USA",
+          "lat": 28.446719599999998,
+          "lon": -81.3952716,
+          "phone": "(407) 961-7730",
           "periods": [
             {
               "open": {
                 "day": 0,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
                 "day": 0,
-                "hour": 23,
+                "hour": 19,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 1,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
                 "day": 1,
-                "hour": 23,
+                "hour": 19,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 2,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
                 "day": 2,
-                "hour": 23,
+                "hour": 19,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 3,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
                 "day": 3,
-                "hour": 23,
+                "hour": 19,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 4,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
-                "day": 5,
-                "hour": 0,
+                "day": 4,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 5,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
-                "day": 6,
-                "hour": 0,
+                "day": 5,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 6,
-                "hour": 6,
-                "minute": 30
+                "hour": 10,
+                "minute": 0
               },
               "close": {
-                "day": 0,
-                "hour": 0,
+                "day": 6,
+                "hour": 20,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 6:30 AM – 11:00 PM",
-            "Tuesday: 6:30 AM – 11:00 PM",
-            "Wednesday: 6:30 AM – 11:00 PM",
-            "Thursday: 6:30 AM – 12:00 AM",
-            "Friday: 6:30 AM – 12:00 AM",
-            "Saturday: 6:30 AM – 12:00 AM",
-            "Sunday: 6:30 AM – 11:00 PM"
+            "Monday: 10:00 AM – 7:00 PM",
+            "Tuesday: 10:00 AM – 7:00 PM",
+            "Wednesday: 10:00 AM – 7:00 PM",
+            "Thursday: 10:00 AM – 8:00 PM",
+            "Friday: 10:00 AM – 8:00 PM",
+            "Saturday: 10:00 AM – 8:00 PM",
+            "Sunday: 10:00 AM – 7:00 PM"
           ],
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJOTl_-O1-54gRokD6cizv7sQ",
+          "id": "ChIJPcNyDRiA3YgRdDsu-8RGGhE",
           "name": "Burger King",
-          "address": "5515 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.462733,
-          "lon": -81.4548801,
-          "phone": "(407) 345-0574",
+          "address": "12491 S Apopka Vineland Rd, Orlando, FL 32836, USA",
+          "lat": 28.384179699999997,
+          "lon": -81.50520499999999,
+          "phone": "(407) 239-0565",
           "periods": [
             {
               "open": {
@@ -1578,7 +1397,7 @@
               },
               "close": {
                 "day": 1,
-                "hour": 0,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -1586,11 +1405,11 @@
               "open": {
                 "day": 1,
                 "hour": 6,
-                "minute": 30
+                "minute": 0
               },
               "close": {
                 "day": 2,
-                "hour": 0,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -1602,7 +1421,7 @@
               },
               "close": {
                 "day": 3,
-                "hour": 0,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -1614,7 +1433,7 @@
               },
               "close": {
                 "day": 4,
-                "hour": 0,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -1656,13 +1475,13 @@
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 6:30 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 12:00 AM",
-            "Wednesday: 6:00 AM – 12:00 AM",
+            "Monday: 6:00 AM – 1:00 AM",
+            "Tuesday: 6:00 AM – 1:00 AM",
+            "Wednesday: 6:00 AM – 1:00 AM",
             "Thursday: 6:00 AM – 12:00 AM",
             "Friday: 6:00 AM – 1:00 AM",
             "Saturday: 6:00 AM – 1:00 AM",
-            "Sunday: 6:00 AM – 12:00 AM"
+            "Sunday: 6:00 AM – 1:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -1815,143 +1634,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJLzeL4Vtk54gRRC2LmuzfEC0",
+          "id": "ChIJpTyx5tV954gRI-XkfSEr7zk",
           "name": "Burger King",
-          "address": "2224 S Goldenrod Rd, Orlando, FL 32822, USA",
-          "lat": 28.5169199,
-          "lon": -81.29026789999999,
-          "phone": "(689) 239-8826",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJo9fJaQB954gRc5Ky4-5u_Sc",
-          "name": "Burger King",
-          "address": "8001 S Orange Blossom Trl, Orlando, FL 32809, USA",
-          "lat": 28.446719599999998,
-          "lon": -81.3952716,
-          "phone": "(407) 961-7730",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 19,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 19,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 19,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 19,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 20,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 20,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 20,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 10:00 AM – 7:00 PM",
-            "Tuesday: 10:00 AM – 7:00 PM",
-            "Wednesday: 10:00 AM – 7:00 PM",
-            "Thursday: 10:00 AM – 8:00 PM",
-            "Friday: 10:00 AM – 8:00 PM",
-            "Saturday: 10:00 AM – 8:00 PM",
-            "Sunday: 10:00 AM – 7:00 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJt949eL9954gRWLTMT-KIbHk",
-          "name": "Burger King",
-          "address": "2000 Consulate Dr, Orlando, FL 32837, USA",
-          "lat": 28.427573,
-          "lon": -81.4053515,
-          "phone": "(407) 857-4978",
+          "address": "8409 S John Young Pkwy, Orlando, FL 32819, USA",
+          "lat": 28.444001399999998,
+          "lon": -81.4267926,
+          "phone": "(407) 903-0777",
           "periods": [
             {
               "open": {
@@ -1960,8 +1648,8 @@
                 "minute": 30
               },
               "close": {
-                "day": 1,
-                "hour": 0,
+                "day": 0,
+                "hour": 23,
                 "minute": 0
               }
             },
@@ -1984,8 +1672,8 @@
                 "minute": 30
               },
               "close": {
-                "day": 3,
-                "hour": 0,
+                "day": 2,
+                "hour": 23,
                 "minute": 0
               }
             },
@@ -1996,8 +1684,8 @@
                 "minute": 30
               },
               "close": {
-                "day": 4,
-                "hour": 0,
+                "day": 3,
+                "hour": 23,
                 "minute": 0
               }
             },
@@ -2005,7 +1693,7 @@
               "open": {
                 "day": 4,
                 "hour": 6,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 5,
@@ -2017,7 +1705,7 @@
               "open": {
                 "day": 5,
                 "hour": 6,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 6,
@@ -2040,220 +1728,12 @@
           ],
           "weekdayDescriptions": [
             "Monday: 6:30 AM – 11:00 PM",
-            "Tuesday: 6:30 AM – 12:00 AM",
-            "Wednesday: 6:30 AM – 12:00 AM",
-            "Thursday: 6:00 AM – 12:00 AM",
-            "Friday: 6:00 AM – 12:00 AM",
+            "Tuesday: 6:30 AM – 11:00 PM",
+            "Wednesday: 6:30 AM – 11:00 PM",
+            "Thursday: 6:30 AM – 12:00 AM",
+            "Friday: 6:30 AM – 12:00 AM",
             "Saturday: 6:30 AM – 12:00 AM",
-            "Sunday: 6:30 AM – 12:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJV2gQvWmH3YgR8OzJ9Lf1Rwk",
-          "name": "Burger King",
-          "address": "12371 S Orange Blossom Trl, Orlando, FL 32837, USA",
-          "lat": 28.3856487,
-          "lon": -81.4039171,
-          "phone": "(407) 348-6470",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 2,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 6:00 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 12:00 AM",
-            "Wednesday: 6:00 AM – 12:00 AM",
-            "Thursday: 6:00 AM – 12:00 AM",
-            "Friday: 6:00 AM – 2:00 AM",
-            "Saturday: 6:00 AM – 2:00 AM",
-            "Sunday: 6:00 AM – 12:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJTzq3ajJ454gR6Jm9kbTuBTw",
-          "name": "Burger King",
-          "address": "2607 N Hiawassee Rd, Orlando, FL 32818, USA",
-          "lat": 28.5786145,
-          "lon": -81.4755723,
-          "phone": "(407) 291-6064",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 0,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 6:00 AM – 12:00 AM",
-            "Tuesday: 6:00 AM – 12:00 AM",
-            "Wednesday: 6:00 AM – 12:00 AM",
-            "Thursday: 6:00 AM – 12:00 AM",
-            "Friday: 6:00 AM – 12:00 AM",
-            "Saturday: 6:00 AM – 12:00 AM",
-            "Sunday: 7:00 AM – 12:00 AM"
+            "Sunday: 6:30 AM – 11:00 PM"
           ],
           "status": "OPERATIONAL"
         },
@@ -2362,6 +1842,241 @@
           "status": "OPERATIONAL"
         },
         {
+          "id": "ChIJHSE_UimH3YgRK0pCODEIj5g",
+          "name": "Burger King",
+          "address": "14025 Town Loop Blvd, Orlando, FL 32837, USA",
+          "lat": 28.3618176,
+          "lon": -81.4218557,
+          "phone": "(407) 858-9199",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 2,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:00 AM – 10:00 PM",
+            "Tuesday: 6:00 AM – 12:00 AM",
+            "Wednesday: 6:00 AM – 12:00 AM",
+            "Thursday: 6:00 AM – 12:00 AM",
+            "Friday: 6:00 AM – 2:00 AM",
+            "Saturday: 6:00 AM – 2:00 AM",
+            "Sunday: 6:00 AM – 12:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJMaZbwO5k54gR_EpdsPKKU_I",
+          "name": "Burger King",
+          "address": "2222 S Semoran Blvd, Orlando, FL 32822, USA",
+          "lat": 28.518760600000004,
+          "lon": -81.3110161,
+          "phone": "(407) 275-9437",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJaTvDPud854gR0TQL-PNIIXc",
+          "name": "Burger King",
+          "address": "8091 S Orange Ave, Orlando, FL 32809, USA",
+          "lat": 28.452239199999998,
+          "lon": -81.3635123,
+          "phone": "(407) 857-5785",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:00 AM – 12:00 AM",
+            "Tuesday: 6:00 AM – 12:00 AM",
+            "Wednesday: 6:00 AM – 12:00 AM",
+            "Thursday: 6:00 AM – 12:00 AM",
+            "Friday: 6:00 AM – 12:00 AM",
+            "Saturday: 6:00 AM – 12:00 AM",
+            "Sunday: 6:00 AM – 12:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
           "id": "ChIJL2PGQ-Vi54gRNImfl8yiNII",
           "name": "Burger King",
           "address": "1 Jeff Fuqua Blvd, Orlando, FL 32827, USA",
@@ -2466,22 +2181,22 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJPcNyDRiA3YgRdDsu-8RGGhE",
+          "id": "ChIJTzq3ajJ454gR6Jm9kbTuBTw",
           "name": "Burger King",
-          "address": "12491 S Apopka Vineland Rd, Orlando, FL 32836, USA",
-          "lat": 28.384179699999997,
-          "lon": -81.50520499999999,
-          "phone": "(407) 239-0565",
+          "address": "2607 N Hiawassee Rd, Orlando, FL 32818, USA",
+          "lat": 28.5786145,
+          "lon": -81.4755723,
+          "phone": "(407) 291-6064",
           "periods": [
             {
               "open": {
                 "day": 0,
-                "hour": 6,
+                "hour": 7,
                 "minute": 0
               },
               "close": {
                 "day": 1,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2493,7 +2208,7 @@
               },
               "close": {
                 "day": 2,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2505,7 +2220,7 @@
               },
               "close": {
                 "day": 3,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2517,7 +2232,7 @@
               },
               "close": {
                 "day": 4,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2541,7 +2256,7 @@
               },
               "close": {
                 "day": 6,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2553,29 +2268,83 @@
               },
               "close": {
                 "day": 0,
-                "hour": 1,
+                "hour": 0,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 6:00 AM – 1:00 AM",
-            "Tuesday: 6:00 AM – 1:00 AM",
-            "Wednesday: 6:00 AM – 1:00 AM",
+            "Monday: 6:00 AM – 12:00 AM",
+            "Tuesday: 6:00 AM – 12:00 AM",
+            "Wednesday: 6:00 AM – 12:00 AM",
             "Thursday: 6:00 AM – 12:00 AM",
-            "Friday: 6:00 AM – 1:00 AM",
-            "Saturday: 6:00 AM – 1:00 AM",
-            "Sunday: 6:00 AM – 1:00 AM"
+            "Friday: 6:00 AM – 12:00 AM",
+            "Saturday: 6:00 AM – 12:00 AM",
+            "Sunday: 7:00 AM – 12:00 AM"
           ],
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJHSE_UimH3YgRK0pCODEIj5g",
+          "id": "ChIJLzeL4Vtk54gRRC2LmuzfEC0",
           "name": "Burger King",
-          "address": "14025 Town Loop Blvd, Orlando, FL 32837, USA",
-          "lat": 28.3618176,
-          "lon": -81.4218557,
-          "phone": "(407) 858-9199",
+          "address": "2224 S Goldenrod Rd, Orlando, FL 32822, USA",
+          "lat": 28.5169199,
+          "lon": -81.29026789999999,
+          "phone": "(689) 239-8826",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJD4sWGdNn54gRYKeICCtguGE",
+          "name": "Burger King",
+          "address": "11834 E Colonial Dr, Orlando, FL 32826, USA",
+          "lat": 28.5659758,
+          "lon": -81.20607129999999,
+          "phone": "(407) 281-1164",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJV2gQvWmH3YgR8OzJ9Lf1Rwk",
+          "name": "Burger King",
+          "address": "12371 S Orange Blossom Trl, Orlando, FL 32837, USA",
+          "lat": 28.3856487,
+          "lon": -81.4039171,
+          "phone": "(407) 348-6470",
           "periods": [
             {
               "open": {
@@ -2596,8 +2365,8 @@
                 "minute": 0
               },
               "close": {
-                "day": 1,
-                "hour": 22,
+                "day": 2,
+                "hour": 0,
                 "minute": 0
               }
             },
@@ -2663,7 +2432,7 @@
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 6:00 AM – 10:00 PM",
+            "Monday: 6:00 AM – 12:00 AM",
             "Tuesday: 6:00 AM – 12:00 AM",
             "Wednesday: 6:00 AM – 12:00 AM",
             "Thursday: 6:00 AM – 12:00 AM",
@@ -2678,110 +2447,6 @@
     "wendys": {
       "label": "Wendy's",
       "locations": [
-        {
-          "id": "ChIJbT0sX7B754gRDLaKj9SWg-I",
-          "name": "Wendy's",
-          "address": "950 S Orange Blossom Trl, Orlando, FL 32805, USA",
-          "lat": 28.530372200000002,
-          "lon": -81.3975641,
-          "phone": "(407) 237-6297",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 6,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 2,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 7,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 2,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 6:00 AM – 2:00 AM",
-            "Tuesday: 6:00 AM – 2:00 AM",
-            "Wednesday: 6:00 AM – 2:00 AM",
-            "Thursday: 6:00 AM – 2:00 AM",
-            "Friday: 6:00 AM – 2:30 AM",
-            "Saturday: 7:00 AM – 2:30 AM",
-            "Sunday: 7:00 AM – 2:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
         {
           "id": "ChIJkXWHSwx754gRsD0kUVTXY_I",
           "name": "Wendy's",
@@ -2883,6 +2548,110 @@
             "Friday: 7:30 AM – 2:00 AM",
             "Saturday: 7:30 AM – 2:00 AM",
             "Sunday: 7:30 AM – 2:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJbT0sX7B754gRDLaKj9SWg-I",
+          "name": "Wendy's",
+          "address": "950 S Orange Blossom Trl, Orlando, FL 32805, USA",
+          "lat": 28.530372200000002,
+          "lon": -81.3975641,
+          "phone": "(407) 237-6297",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 6,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 2,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 2,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:00 AM – 2:00 AM",
+            "Tuesday: 6:00 AM – 2:00 AM",
+            "Wednesday: 6:00 AM – 2:00 AM",
+            "Thursday: 6:00 AM – 2:00 AM",
+            "Friday: 6:00 AM – 2:30 AM",
+            "Saturday: 7:00 AM – 2:30 AM",
+            "Sunday: 7:00 AM – 2:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -2991,110 +2760,6 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ8xOqzyB-54gRiUm8NBMRY4c",
-          "name": "Wendy's",
-          "address": "5824 Central Florida Pkwy, Orlando, FL 32821, USA",
-          "lat": 28.4067696,
-          "lon": -81.4548142,
-          "phone": "(407) 239-4134",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 1,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 2,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 3,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 4,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 5,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 6,
-                "hour": 3,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 0,
-                "hour": 3,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 7:30 AM – 3:00 AM",
-            "Tuesday: 7:30 AM – 3:00 AM",
-            "Wednesday: 7:30 AM – 3:00 AM",
-            "Thursday: 7:30 AM – 3:00 AM",
-            "Friday: 7:30 AM – 3:30 AM",
-            "Saturday: 7:30 AM – 3:30 AM",
-            "Sunday: 7:30 AM – 3:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
           "id": "ChIJ2WLNLit854gRGjUgrEA0t5g",
           "name": "Wendy's",
           "address": "3020 W Sand Lake Rd, Orlando, FL 32819, USA",
@@ -3199,12 +2864,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ_8W1_kRl54gR0zBql6LaDHI",
+          "id": "ChIJ8xOqzyB-54gRiUm8NBMRY4c",
           "name": "Wendy's",
-          "address": "4510 S Semoran Blvd, Orlando, FL 32822, USA",
-          "lat": 28.4985085,
-          "lon": -81.3107824,
-          "phone": "(321) 666-8656",
+          "address": "5824 Central Florida Pkwy, Orlando, FL 32821, USA",
+          "lat": 28.4067696,
+          "lon": -81.4548142,
+          "phone": "(407) 239-4134",
           "periods": [
             {
               "open": {
@@ -3222,7 +2887,7 @@
               "open": {
                 "day": 1,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 2,
@@ -3234,7 +2899,7 @@
               "open": {
                 "day": 2,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 3,
@@ -3246,7 +2911,7 @@
               "open": {
                 "day": 3,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 4,
@@ -3258,7 +2923,7 @@
               "open": {
                 "day": 4,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 5,
@@ -3270,7 +2935,111 @@
               "open": {
                 "day": 5,
                 "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 3,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 3,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 AM – 3:00 AM",
+            "Tuesday: 7:30 AM – 3:00 AM",
+            "Wednesday: 7:30 AM – 3:00 AM",
+            "Thursday: 7:30 AM – 3:00 AM",
+            "Friday: 7:30 AM – 3:30 AM",
+            "Saturday: 7:30 AM – 3:30 AM",
+            "Sunday: 7:30 AM – 3:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJb_F2hcZ-54gR0CrbDY1_Ysg",
+          "name": "Wendy's",
+          "address": "5503 Major Blvd, Orlando, FL 32819, USA",
+          "lat": 28.482387499999998,
+          "lon": -81.4548286,
+          "phone": "(407) 370-0806",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 3,
                 "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30
               },
               "close": {
                 "day": 6,
@@ -3292,11 +3061,11 @@
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 7:00 AM – 3:00 AM",
-            "Tuesday: 7:00 AM – 3:00 AM",
-            "Wednesday: 7:00 AM – 3:00 AM",
-            "Thursday: 7:00 AM – 3:00 AM",
-            "Friday: 7:00 AM – 3:00 AM",
+            "Monday: 7:30 AM – 3:00 AM",
+            "Tuesday: 7:30 AM – 3:00 AM",
+            "Wednesday: 7:30 AM – 3:00 AM",
+            "Thursday: 7:30 AM – 3:00 AM",
+            "Friday: 7:30 AM – 3:00 AM",
             "Saturday: 7:30 AM – 3:00 AM",
             "Sunday: 7:30 AM – 3:00 AM"
           ],
@@ -3407,6 +3176,110 @@
           "status": "OPERATIONAL"
         },
         {
+          "id": "ChIJ_8W1_kRl54gR0zBql6LaDHI",
+          "name": "Wendy's",
+          "address": "4510 S Semoran Blvd, Orlando, FL 32822, USA",
+          "lat": 28.4985085,
+          "lon": -81.3107824,
+          "phone": "(321) 666-8656",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 3,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 3,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:00 AM – 3:00 AM",
+            "Tuesday: 7:00 AM – 3:00 AM",
+            "Wednesday: 7:00 AM – 3:00 AM",
+            "Thursday: 7:00 AM – 3:00 AM",
+            "Friday: 7:00 AM – 3:00 AM",
+            "Saturday: 7:30 AM – 3:00 AM",
+            "Sunday: 7:30 AM – 3:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
           "id": "ChIJndxQTlBj54gRkW4eDInRAsA",
           "name": "Wendy's",
           "address": "4426 Hoffner Ave, Orlando, FL 32812, USA",
@@ -3507,214 +3380,6 @@
             "Friday: 7:30 AM – 2:00 AM",
             "Saturday: 7:30 AM – 2:00 AM",
             "Sunday: 7:30 AM – 2:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJb_F2hcZ-54gR0CrbDY1_Ysg",
-          "name": "Wendy's",
-          "address": "5503 Major Blvd, Orlando, FL 32819, USA",
-          "lat": 28.482387499999998,
-          "lon": -81.4548286,
-          "phone": "(407) 370-0806",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 1,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 2,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 3,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 4,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 5,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 6,
-                "hour": 3,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 0,
-                "hour": 3,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 7:30 AM – 3:00 AM",
-            "Tuesday: 7:30 AM – 3:00 AM",
-            "Wednesday: 7:30 AM – 3:00 AM",
-            "Thursday: 7:30 AM – 3:00 AM",
-            "Friday: 7:30 AM – 3:00 AM",
-            "Saturday: 7:30 AM – 3:00 AM",
-            "Sunday: 7:30 AM – 3:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ56L4AN5854gRMK3IdsPVNUA",
-          "name": "Wendy's",
-          "address": "1050 McCoy Rd, Orlando, FL 32809, USA",
-          "lat": 28.4505825,
-          "lon": -81.36172189999999,
-          "phone": "(407) 240-8014",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 1,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 2,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 3,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 4,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 5,
-                "hour": 1,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 6,
-                "hour": 1,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 0,
-                "hour": 1,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 7:30 AM – 1:00 AM",
-            "Tuesday: 7:30 AM – 1:00 AM",
-            "Wednesday: 7:30 AM – 1:00 AM",
-            "Thursday: 7:30 AM – 1:00 AM",
-            "Friday: 7:30 AM – 1:30 AM",
-            "Saturday: 7:30 AM – 1:30 AM",
-            "Sunday: 7:30 AM – 1:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -3823,12 +3488,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJdZUHuiR554gRiRq222EUUdg",
+          "id": "ChIJ56L4AN5854gRMK3IdsPVNUA",
           "name": "Wendy's",
-          "address": "2751 Wilshire Dr, Orlando, FL 32835, USA",
-          "lat": 28.5133894,
-          "lon": -81.4616489,
-          "phone": "(407) 292-2039",
+          "address": "1050 McCoy Rd, Orlando, FL 32809, USA",
+          "lat": 28.4505825,
+          "lon": -81.36172189999999,
+          "phone": "(407) 240-8014",
           "periods": [
             {
               "open": {
@@ -3838,7 +3503,7 @@
               },
               "close": {
                 "day": 1,
-                "hour": 3,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -3846,11 +3511,11 @@
               "open": {
                 "day": 1,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 2,
-                "hour": 3,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -3858,11 +3523,11 @@
               "open": {
                 "day": 2,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 3,
-                "hour": 3,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -3870,11 +3535,11 @@
               "open": {
                 "day": 3,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 4,
-                "hour": 3,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -3882,11 +3547,11 @@
               "open": {
                 "day": 4,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 5,
-                "hour": 3,
+                "hour": 1,
                 "minute": 0
               }
             },
@@ -3894,12 +3559,12 @@
               "open": {
                 "day": 5,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 6,
-                "hour": 3,
-                "minute": 0
+                "hour": 1,
+                "minute": 30
               }
             },
             {
@@ -3910,19 +3575,19 @@
               },
               "close": {
                 "day": 0,
-                "hour": 3,
-                "minute": 0
+                "hour": 1,
+                "minute": 30
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 7:00 AM – 3:00 AM",
-            "Tuesday: 7:00 AM – 3:00 AM",
-            "Wednesday: 7:00 AM – 3:00 AM",
-            "Thursday: 7:00 AM – 3:00 AM",
-            "Friday: 7:00 AM – 3:00 AM",
-            "Saturday: 7:30 AM – 3:00 AM",
-            "Sunday: 7:30 AM – 3:00 AM"
+            "Monday: 7:30 AM – 1:00 AM",
+            "Tuesday: 7:30 AM – 1:00 AM",
+            "Wednesday: 7:30 AM – 1:00 AM",
+            "Thursday: 7:30 AM – 1:00 AM",
+            "Friday: 7:30 AM – 1:30 AM",
+            "Saturday: 7:30 AM – 1:30 AM",
+            "Sunday: 7:30 AM – 1:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -3933,110 +3598,6 @@
           "lat": 28.553501599999997,
           "lon": -81.3536847,
           "phone": "(407) 898-1188",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 1,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 2,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 3,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 4,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 5,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 6,
-                "hour": 2,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 7,
-                "minute": 30
-              },
-              "close": {
-                "day": 0,
-                "hour": 2,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 7:30 AM – 2:00 AM",
-            "Tuesday: 7:30 AM – 2:00 AM",
-            "Wednesday: 7:30 AM – 2:00 AM",
-            "Thursday: 7:30 AM – 2:00 AM",
-            "Friday: 7:30 AM – 2:30 AM",
-            "Saturday: 7:30 AM – 2:30 AM",
-            "Sunday: 7:30 AM – 2:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJGWV-Aqp_54gRUZ9BVZ50ViY",
-          "name": "Wendy's",
-          "address": "7749 Turkey Lake Rd, Orlando, FL 32819, USA",
-          "lat": 28.451963199999998,
-          "lon": -81.47705959999999,
-          "phone": "(407) 351-6884",
           "periods": [
             {
               "open": {
@@ -4239,12 +3800,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJTfas0bVl54gRgtTjkDQI1SU",
+          "id": "ChIJdZUHuiR554gRiRq222EUUdg",
           "name": "Wendy's",
-          "address": "508 S Chickasaw Trail, Orlando, FL 32825, USA",
-          "lat": 28.537617599999997,
-          "lon": -81.2760481,
-          "phone": "(407) 281-7626",
+          "address": "2751 Wilshire Dr, Orlando, FL 32835, USA",
+          "lat": 28.5133894,
+          "lon": -81.4616489,
+          "phone": "(407) 292-2039",
           "periods": [
             {
               "open": {
@@ -4339,6 +3900,110 @@
             "Friday: 7:00 AM – 3:00 AM",
             "Saturday: 7:30 AM – 3:00 AM",
             "Sunday: 7:30 AM – 3:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJGWV-Aqp_54gRUZ9BVZ50ViY",
+          "name": "Wendy's",
+          "address": "7749 Turkey Lake Rd, Orlando, FL 32819, USA",
+          "lat": 28.451963199999998,
+          "lon": -81.47705959999999,
+          "phone": "(407) 351-6884",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 2,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 2,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 AM – 2:00 AM",
+            "Tuesday: 7:30 AM – 2:00 AM",
+            "Wednesday: 7:30 AM – 2:00 AM",
+            "Thursday: 7:30 AM – 2:00 AM",
+            "Friday: 7:30 AM – 2:30 AM",
+            "Saturday: 7:30 AM – 2:30 AM",
+            "Sunday: 7:30 AM – 2:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -4447,82 +4112,82 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJl3hp7I9l54gRLNeKKxKgJK0",
+          "id": "ChIJTfas0bVl54gRgtTjkDQI1SU",
           "name": "Wendy's",
-          "address": "7693 E Colonial Dr, Orlando, FL 32807, USA",
-          "lat": 28.5688744,
-          "lon": -81.2838319,
-          "phone": "(407) 282-0024",
+          "address": "508 S Chickasaw Trail, Orlando, FL 32825, USA",
+          "lat": 28.537617599999997,
+          "lon": -81.2760481,
+          "phone": "(407) 281-7626",
           "periods": [
             {
               "open": {
                 "day": 0,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 1,
-                "hour": 1,
+                "hour": 3,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 1,
-                "hour": 6,
-                "minute": 30
+                "hour": 7,
+                "minute": 0
               },
               "close": {
                 "day": 2,
-                "hour": 1,
+                "hour": 3,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 2,
-                "hour": 6,
-                "minute": 30
+                "hour": 7,
+                "minute": 0
               },
               "close": {
                 "day": 3,
-                "hour": 1,
+                "hour": 3,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 3,
-                "hour": 6,
-                "minute": 30
+                "hour": 7,
+                "minute": 0
               },
               "close": {
                 "day": 4,
-                "hour": 1,
+                "hour": 3,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 4,
-                "hour": 6,
-                "minute": 30
+                "hour": 7,
+                "minute": 0
               },
               "close": {
                 "day": 5,
-                "hour": 1,
+                "hour": 3,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 5,
-                "hour": 6,
-                "minute": 30
+                "hour": 7,
+                "minute": 0
               },
               "close": {
                 "day": 6,
-                "hour": 2,
+                "hour": 3,
                 "minute": 0
               }
             },
@@ -4530,23 +4195,23 @@
               "open": {
                 "day": 6,
                 "hour": 7,
-                "minute": 0
+                "minute": 30
               },
               "close": {
                 "day": 0,
-                "hour": 2,
+                "hour": 3,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 6:30 AM – 1:00 AM",
-            "Tuesday: 6:30 AM – 1:00 AM",
-            "Wednesday: 6:30 AM – 1:00 AM",
-            "Thursday: 6:30 AM – 1:00 AM",
-            "Friday: 6:30 AM – 2:00 AM",
-            "Saturday: 7:00 AM – 2:00 AM",
-            "Sunday: 7:00 AM – 1:00 AM"
+            "Monday: 7:00 AM – 3:00 AM",
+            "Tuesday: 7:00 AM – 3:00 AM",
+            "Wednesday: 7:00 AM – 3:00 AM",
+            "Thursday: 7:00 AM – 3:00 AM",
+            "Friday: 7:00 AM – 3:00 AM",
+            "Saturday: 7:30 AM – 3:00 AM",
+            "Sunday: 7:30 AM – 3:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -4651,6 +4316,110 @@
             "Friday: 6:00 AM – 3:00 AM",
             "Saturday: 7:00 AM – 3:00 AM",
             "Sunday: 7:00 AM – 3:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJl3hp7I9l54gRLNeKKxKgJK0",
+          "name": "Wendy's",
+          "address": "7693 E Colonial Dr, Orlando, FL 32807, USA",
+          "lat": 28.5688744,
+          "lon": -81.2838319,
+          "phone": "(407) 282-0024",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 1,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 6,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 2,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 6:30 AM – 1:00 AM",
+            "Tuesday: 6:30 AM – 1:00 AM",
+            "Wednesday: 6:30 AM – 1:00 AM",
+            "Thursday: 6:30 AM – 1:00 AM",
+            "Friday: 6:30 AM – 2:00 AM",
+            "Saturday: 7:00 AM – 2:00 AM",
+            "Sunday: 7:00 AM – 1:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -5284,6 +5053,110 @@
           "status": "OPERATIONAL"
         },
         {
+          "id": "ChIJ7dtLnCd-54gRBHGvvYVRKis",
+          "name": "Taco Bell",
+          "address": "5960 Central Florida Pkwy, Orlando, FL 32821, USA",
+          "lat": 28.405901800000002,
+          "lon": -81.4581958,
+          "phone": "(407) 370-6606",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 4,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 4,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 4,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 4,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 4,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 5,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 5,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 8:00 AM – 4:00 AM",
+            "Tuesday: 8:00 AM – 4:00 AM",
+            "Wednesday: 8:00 AM – 4:00 AM",
+            "Thursday: 8:00 AM – 4:00 AM",
+            "Friday: 8:00 AM – 5:00 AM",
+            "Saturday: 8:00 AM – 5:00 AM",
+            "Sunday: 8:00 AM – 4:00 AM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
           "id": "ChIJJ4cjmMR454gRTwTfzP1Kx4A",
           "name": "Taco Bell",
           "address": "2403 S Hiawassee Rd, Orlando, FL 32811, USA",
@@ -5388,106 +5261,106 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ7dtLnCd-54gRBHGvvYVRKis",
+          "id": "ChIJE_WEEVB_54gR5vfIJWBW2DA",
           "name": "Taco Bell",
-          "address": "5960 Central Florida Pkwy, Orlando, FL 32821, USA",
-          "lat": 28.405901800000002,
-          "lon": -81.4581958,
-          "phone": "(407) 370-6606",
+          "address": "7623 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.4525759,
+          "lon": -81.47024809999999,
+          "phone": "(321) 754-9462",
           "periods": [
             {
               "open": {
                 "day": 0,
-                "hour": 8,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 1,
-                "hour": 4,
+                "hour": 2,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 1,
-                "hour": 8,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 2,
-                "hour": 4,
+                "hour": 2,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 2,
-                "hour": 8,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 3,
-                "hour": 4,
+                "hour": 2,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 3,
-                "hour": 8,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 4,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 2,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
                 "hour": 4,
                 "minute": 0
               }
             },
             {
               "open": {
-                "day": 4,
-                "hour": 8,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 4,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 8,
-                "minute": 0
-              },
-              "close": {
                 "day": 6,
-                "hour": 5,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 8,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 0,
-                "hour": 5,
+                "hour": 4,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 8:00 AM – 4:00 AM",
-            "Tuesday: 8:00 AM – 4:00 AM",
-            "Wednesday: 8:00 AM – 4:00 AM",
-            "Thursday: 8:00 AM – 4:00 AM",
-            "Friday: 8:00 AM – 5:00 AM",
-            "Saturday: 8:00 AM – 5:00 AM",
-            "Sunday: 8:00 AM – 4:00 AM"
+            "Monday: 9:00 AM – 2:00 AM",
+            "Tuesday: 9:00 AM – 2:00 AM",
+            "Wednesday: 9:00 AM – 2:00 AM",
+            "Thursday: 9:00 AM – 2:00 AM",
+            "Friday: 9:00 AM – 4:00 AM",
+            "Saturday: 9:00 AM – 4:00 AM",
+            "Sunday: 9:00 AM – 2:00 AM"
           ],
           "status": "OPERATIONAL"
         },
@@ -5799,110 +5672,6 @@
             "Thursday: 9:00 AM – 3:00 AM",
             "Friday: 9:00 AM – 3:00 AM",
             "Saturday: 9:00 AM – 3:00 AM",
-            "Sunday: 9:00 AM – 2:00 AM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJE_WEEVB_54gR5vfIJWBW2DA",
-          "name": "Taco Bell",
-          "address": "7623 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.4525759,
-          "lon": -81.47024809999999,
-          "phone": "(321) 754-9462",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 2,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 4,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 9,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 4,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 9:00 AM – 2:00 AM",
-            "Tuesday: 9:00 AM – 2:00 AM",
-            "Wednesday: 9:00 AM – 2:00 AM",
-            "Thursday: 9:00 AM – 2:00 AM",
-            "Friday: 9:00 AM – 4:00 AM",
-            "Saturday: 9:00 AM – 4:00 AM",
             "Sunday: 9:00 AM – 2:00 AM"
           ],
           "status": "OPERATIONAL"
@@ -6586,12 +6355,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJj3JHRLRw54gRK8S6Z9frzJE",
+          "id": "ChIJCcB5CICH3YgR14SzkbwXxMU",
           "name": "Taco Bell",
-          "address": "5400 N Orange Blossom Trl, Orlando, FL 32810, USA",
-          "lat": 28.6074514,
-          "lon": -81.42485409999999,
-          "phone": "(321) 754-9535",
+          "address": "13980 S John Young Pkwy, Orlando, FL 32837, USA",
+          "lat": 28.363064599999998,
+          "lon": -81.42408259999999,
+          "phone": "(321) 300-2386",
           "periods": [
             {
               "open": {
@@ -6601,7 +6370,7 @@
               },
               "close": {
                 "day": 1,
-                "hour": 3,
+                "hour": 2,
                 "minute": 0
               }
             },
@@ -6613,7 +6382,7 @@
               },
               "close": {
                 "day": 2,
-                "hour": 3,
+                "hour": 2,
                 "minute": 0
               }
             },
@@ -6625,7 +6394,7 @@
               },
               "close": {
                 "day": 3,
-                "hour": 3,
+                "hour": 2,
                 "minute": 0
               }
             },
@@ -6637,7 +6406,7 @@
               },
               "close": {
                 "day": 4,
-                "hour": 3,
+                "hour": 2,
                 "minute": 0
               }
             },
@@ -6649,7 +6418,7 @@
               },
               "close": {
                 "day": 5,
-                "hour": 4,
+                "hour": 2,
                 "minute": 0
               }
             },
@@ -6661,7 +6430,7 @@
               },
               "close": {
                 "day": 6,
-                "hour": 4,
+                "hour": 3,
                 "minute": 0
               }
             },
@@ -6673,19 +6442,19 @@
               },
               "close": {
                 "day": 0,
-                "hour": 4,
+                "hour": 3,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 9:00 AM – 3:00 AM",
-            "Tuesday: 9:00 AM – 3:00 AM",
-            "Wednesday: 9:00 AM – 3:00 AM",
-            "Thursday: 9:00 AM – 4:00 AM",
-            "Friday: 9:00 AM – 4:00 AM",
-            "Saturday: 9:00 AM – 4:00 AM",
-            "Sunday: 9:00 AM – 3:00 AM"
+            "Monday: 9:00 AM – 2:00 AM",
+            "Tuesday: 9:00 AM – 2:00 AM",
+            "Wednesday: 9:00 AM – 2:00 AM",
+            "Thursday: 9:00 AM – 2:00 AM",
+            "Friday: 9:00 AM – 3:00 AM",
+            "Saturday: 9:00 AM – 3:00 AM",
+            "Sunday: 9:00 AM – 2:00 AM"
           ],
           "status": "OPERATIONAL"
         }
@@ -7523,12 +7292,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJu3jAPXWB3YgRUEk4q3tZOAM",
+          "id": "ChIJ5S9NFwB_54gRYojMBHrR3S0",
           "name": "Chick-fil-A",
-          "address": "13524 Kissimmee Vineland Rd, Orlando, FL 32821, USA",
-          "lat": 28.369593599999998,
-          "lon": -81.50398659999999,
-          "phone": "(407) 827-7032",
+          "address": "7007 Sea World Dr, Orlando, FL 32821, USA",
+          "lat": 28.411840899999998,
+          "lon": -81.4611972,
+          "phone": "(407) 351-3600",
           "periods": [
             {
               "open": {
@@ -7615,12 +7384,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ5S9NFwB_54gRYojMBHrR3S0",
+          "id": "ChIJu3jAPXWB3YgRUEk4q3tZOAM",
           "name": "Chick-fil-A",
-          "address": "7007 Sea World Dr, Orlando, FL 32821, USA",
-          "lat": 28.411840899999998,
-          "lon": -81.4611972,
-          "phone": "(407) 351-3600",
+          "address": "13524 Kissimmee Vineland Rd, Orlando, FL 32821, USA",
+          "lat": 28.369593599999998,
+          "lon": -81.50398659999999,
+          "phone": "(407) 827-7032",
           "periods": [
             {
               "open": {
@@ -8748,12 +8517,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJq6f9ZQCJ3YgRNmeruZZ8-XM",
-          "name": "Starbucks Boggy Creek",
-          "address": "14259 Nona N Rd, Orlando, FL 32824, USA",
-          "lat": 28.3555317,
-          "lon": -81.3102758,
-          "phone": "(407) 979-4734",
+          "id": "ChIJZxwQJFV-54gRgf66ag4xuWk",
+          "name": "Starbucks Coffee Company",
+          "address": "8013 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.44951,
+          "lon": -81.46979999999999,
+          "phone": "(407) 354-1542",
           "periods": [
             {
               "open": {
@@ -8852,12 +8621,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJZxwQJFV-54gRgf66ag4xuWk",
-          "name": "Starbucks Coffee Company",
-          "address": "8013 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.44951,
-          "lon": -81.46979999999999,
-          "phone": "(407) 354-1542",
+          "id": "ChIJq6f9ZQCJ3YgRNmeruZZ8-XM",
+          "name": "Starbucks Boggy Creek",
+          "address": "14259 Nona N Rd, Orlando, FL 32824, USA",
+          "lat": 28.3555317,
+          "lon": -81.3102758,
+          "phone": "(407) 979-4734",
           "periods": [
             {
               "open": {
@@ -9071,214 +8840,6 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJgTyIJXN754gRxQYYiVCZGaw",
-          "name": "Starbucks Coffee Company",
-          "address": "3107 S Orange Ave, Orlando, FL 32806, USA",
-          "lat": 28.5090312,
-          "lon": -81.3759224,
-          "phone": "(407) 872-3656",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 4,
-                "minute": 30
-              },
-              "close": {
-                "day": 1,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 4,
-                "minute": 30
-              },
-              "close": {
-                "day": 2,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 4,
-                "minute": 30
-              },
-              "close": {
-                "day": 3,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 4,
-                "minute": 30
-              },
-              "close": {
-                "day": 4,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 4,
-                "minute": 30
-              },
-              "close": {
-                "day": 5,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 20,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 4:30 AM – 9:00 PM",
-            "Tuesday: 4:30 AM – 9:00 PM",
-            "Wednesday: 4:30 AM – 9:00 PM",
-            "Thursday: 4:30 AM – 9:00 PM",
-            "Friday: 4:30 AM – 9:00 PM",
-            "Saturday: 5:00 AM – 8:30 PM",
-            "Sunday: 5:00 AM – 8:30 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ1ev6qW1j54gRLIXUFrNoBa4",
-          "name": "Starbucks Coffee Company",
-          "address": "6605 S Semoran Blvd, Orlando, FL 32822, USA",
-          "lat": 28.46795,
-          "lon": -81.3093,
-          "phone": "(407) 854-6316",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 20,
-                "minute": 30
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 5:00 AM – 9:00 PM",
-            "Tuesday: 5:00 AM – 9:00 PM",
-            "Wednesday: 5:00 AM – 9:00 PM",
-            "Thursday: 5:00 AM – 9:00 PM",
-            "Friday: 5:00 AM – 9:00 PM",
-            "Saturday: 5:00 AM – 8:30 PM",
-            "Sunday: 5:00 AM – 8:30 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
           "id": "ChIJJZfzazl_54gRsw4V-MJVUvA",
           "name": "Starbucks Coffee Company",
           "address": "ICON Park, 8371 International Dr, Orlando, FL 32819, USA",
@@ -9379,6 +8940,110 @@
             "Friday: 7:30 AM – 9:30 PM",
             "Saturday: 7:30 AM – 9:30 PM",
             "Sunday: 7:30 AM – 8:00 PM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJgTyIJXN754gRxQYYiVCZGaw",
+          "name": "Starbucks Coffee Company",
+          "address": "3107 S Orange Ave, Orlando, FL 32806, USA",
+          "lat": 28.5090312,
+          "lon": -81.3759224,
+          "phone": "(407) 872-3656",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 4,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 4,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 4,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 4,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 4,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 20,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 4:30 AM – 9:00 PM",
+            "Tuesday: 4:30 AM – 9:00 PM",
+            "Wednesday: 4:30 AM – 9:00 PM",
+            "Thursday: 4:30 AM – 9:00 PM",
+            "Friday: 4:30 AM – 9:00 PM",
+            "Saturday: 5:00 AM – 8:30 PM",
+            "Sunday: 5:00 AM – 8:30 PM"
           ],
           "status": "OPERATIONAL"
         },
@@ -9487,12 +9152,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJVx1nihRj54gRhcowXOEgvDI",
+          "id": "ChIJ1ev6qW1j54gRLIXUFrNoBa4",
           "name": "Starbucks Coffee Company",
-          "address": "7537 Narcoossee Rd, Orlando, FL 32822, USA",
-          "lat": 28.458569999999998,
-          "lon": -81.27047999999999,
-          "phone": "(689) 201-1888",
+          "address": "6605 S Semoran Blvd, Orlando, FL 32822, USA",
+          "lat": 28.46795,
+          "lon": -81.3093,
+          "phone": "(407) 854-6316",
           "periods": [
             {
               "open": {
@@ -9502,112 +9167,8 @@
               },
               "close": {
                 "day": 0,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
                 "hour": 20,
                 "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 20,
-                "minute": 30
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 21,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 5:00 AM – 8:30 PM",
-            "Tuesday: 5:00 AM – 8:30 PM",
-            "Wednesday: 5:00 AM – 8:30 PM",
-            "Thursday: 5:00 AM – 8:30 PM",
-            "Friday: 5:00 AM – 8:30 PM",
-            "Saturday: 5:00 AM – 9:00 PM",
-            "Sunday: 5:00 AM – 9:00 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJr1lvSxd_54gR0RDP-453wD4",
-          "name": "Starbucks",
-          "address": "5540 W Oak Ridge Rd, Orlando, FL 32819, USA",
-          "lat": 28.47167,
-          "lon": -81.45309999999999,
-          "phone": "(321) 320-3359",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 21,
-                "minute": 0
               }
             },
             {
@@ -9678,8 +9239,8 @@
               },
               "close": {
                 "day": 6,
-                "hour": 21,
-                "minute": 0
+                "hour": 20,
+                "minute": 30
               }
             }
           ],
@@ -9689,8 +9250,8 @@
             "Wednesday: 5:00 AM – 9:00 PM",
             "Thursday: 5:00 AM – 9:00 PM",
             "Friday: 5:00 AM – 9:00 PM",
-            "Saturday: 5:00 AM – 9:00 PM",
-            "Sunday: 5:00 AM – 9:00 PM"
+            "Saturday: 5:00 AM – 8:30 PM",
+            "Sunday: 5:00 AM – 8:30 PM"
           ],
           "status": "OPERATIONAL"
         },
@@ -9799,12 +9360,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ20RbbgB754gRCf29iCzpzwE",
+          "id": "ChIJr1lvSxd_54gR0RDP-453wD4",
           "name": "Starbucks",
-          "address": "Alden Street Parking Garage, 550 E Rollins St, Orlando, FL 32803, USA",
-          "lat": 28.573941599999998,
-          "lon": -81.37109769999999,
-          "phone": "(407) 743-0109",
+          "address": "5540 W Oak Ridge Rd, Orlando, FL 32819, USA",
+          "lat": 28.47167,
+          "lon": -81.45309999999999,
+          "phone": "(321) 320-3359",
           "periods": [
             {
               "open": {
@@ -9814,7 +9375,7 @@
               },
               "close": {
                 "day": 0,
-                "hour": 17,
+                "hour": 21,
                 "minute": 0
               }
             },
@@ -9826,8 +9387,8 @@
               },
               "close": {
                 "day": 1,
-                "hour": 19,
-                "minute": 30
+                "hour": 21,
+                "minute": 0
               }
             },
             {
@@ -9838,8 +9399,8 @@
               },
               "close": {
                 "day": 2,
-                "hour": 19,
-                "minute": 30
+                "hour": 21,
+                "minute": 0
               }
             },
             {
@@ -9850,8 +9411,8 @@
               },
               "close": {
                 "day": 3,
-                "hour": 19,
-                "minute": 30
+                "hour": 21,
+                "minute": 0
               }
             },
             {
@@ -9862,8 +9423,8 @@
               },
               "close": {
                 "day": 4,
-                "hour": 19,
-                "minute": 30
+                "hour": 21,
+                "minute": 0
               }
             },
             {
@@ -9874,8 +9435,8 @@
               },
               "close": {
                 "day": 5,
-                "hour": 19,
-                "minute": 30
+                "hour": 21,
+                "minute": 0
               }
             },
             {
@@ -9886,19 +9447,19 @@
               },
               "close": {
                 "day": 6,
-                "hour": 17,
+                "hour": 21,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 5:00 AM – 7:30 PM",
-            "Tuesday: 5:00 AM – 7:30 PM",
-            "Wednesday: 5:00 AM – 7:30 PM",
-            "Thursday: 5:00 AM – 7:30 PM",
-            "Friday: 5:00 AM – 7:30 PM",
-            "Saturday: 5:00 AM – 5:00 PM",
-            "Sunday: 5:00 AM – 5:00 PM"
+            "Monday: 5:00 AM – 9:00 PM",
+            "Tuesday: 5:00 AM – 9:00 PM",
+            "Wednesday: 5:00 AM – 9:00 PM",
+            "Thursday: 5:00 AM – 9:00 PM",
+            "Friday: 5:00 AM – 9:00 PM",
+            "Saturday: 5:00 AM – 9:00 PM",
+            "Sunday: 5:00 AM – 9:00 PM"
           ],
           "status": "OPERATIONAL"
         },
@@ -10003,6 +9564,214 @@
             "Friday: 9:00 AM – 8:00 PM",
             "Saturday: 9:00 AM – 8:00 PM",
             "Sunday: 9:00 AM – 8:00 PM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJ20RbbgB754gRCf29iCzpzwE",
+          "name": "Starbucks",
+          "address": "Alden Street Parking Garage, 550 E Rollins St, Orlando, FL 32803, USA",
+          "lat": 28.573941599999998,
+          "lon": -81.37109769999999,
+          "phone": "(407) 743-0109",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 19,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 19,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 19,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 19,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 19,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 AM – 7:30 PM",
+            "Tuesday: 5:00 AM – 7:30 PM",
+            "Wednesday: 5:00 AM – 7:30 PM",
+            "Thursday: 5:00 AM – 7:30 PM",
+            "Friday: 5:00 AM – 7:30 PM",
+            "Saturday: 5:00 AM – 5:00 PM",
+            "Sunday: 5:00 AM – 5:00 PM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJVx1nihRj54gRhcowXOEgvDI",
+          "name": "Starbucks Coffee Company",
+          "address": "7537 Narcoossee Rd, Orlando, FL 32822, USA",
+          "lat": 28.458569999999998,
+          "lon": -81.27047999999999,
+          "phone": "(689) 201-1888",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 20,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 5,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 21,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 AM – 8:30 PM",
+            "Tuesday: 5:00 AM – 8:30 PM",
+            "Wednesday: 5:00 AM – 8:30 PM",
+            "Thursday: 5:00 AM – 8:30 PM",
+            "Friday: 5:00 AM – 8:30 PM",
+            "Saturday: 5:00 AM – 9:00 PM",
+            "Sunday: 5:00 AM – 9:00 PM"
           ],
           "status": "OPERATIONAL"
         },
@@ -10215,110 +9984,6 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJS7FcbHuJ3YgRI4XK3lhjynk",
-          "name": "Starbucks Coffee Company",
-          "address": "13495 Veterans Way, Orlando, FL 32827, USA",
-          "lat": 28.370965499999997,
-          "lon": -81.2792359,
-          "phone": "(689) 800-7341",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 21,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 5,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 21,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 5:00 AM – 9:00 PM",
-            "Tuesday: 5:00 AM – 9:00 PM",
-            "Wednesday: 5:00 AM – 9:00 PM",
-            "Thursday: 5:00 AM – 9:00 PM",
-            "Friday: 5:00 AM – 9:00 PM",
-            "Saturday: 5:00 AM – 9:00 PM",
-            "Sunday: 5:00 AM – 9:00 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
           "id": "ChIJAafu6qB_54gRVbrBxDulviY",
           "name": "Starbucks Coffee Company",
           "address": "7600 Dr Phillips Blvd, Orlando, FL 32819, USA",
@@ -10423,106 +10088,210 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJ19KyjTJ754gRCuj-aYa-i3g",
+          "id": "ChIJr3s5vbJ954gRxa3oV7Oka64",
           "name": "Starbucks Coffee Company",
-          "address": "407 N Magnolia Ave, Orlando, FL 32801, USA",
-          "lat": 28.548119999999997,
-          "lon": -81.37657,
-          "phone": "(407) 652-3555",
+          "address": "8001 S Orange Blossom Trl, Pine Castle, FL 32809, USA",
+          "lat": 28.444,
+          "lon": -81.39336999999999,
+          "phone": "(407) 854-2272",
           "periods": [
             {
               "open": {
                 "day": 0,
-                "hour": 6,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 0,
-                "hour": 16,
+                "hour": 19,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 1,
-                "hour": 5,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 1,
-                "hour": 18,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 2,
-                "hour": 5,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 2,
-                "hour": 18,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 3,
-                "hour": 5,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 3,
-                "hour": 18,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 4,
-                "hour": 5,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 4,
-                "hour": 18,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 5,
-                "hour": 5,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 5,
-                "hour": 18,
+                "hour": 20,
                 "minute": 0
               }
             },
             {
               "open": {
                 "day": 6,
-                "hour": 6,
+                "hour": 9,
                 "minute": 0
               },
               "close": {
                 "day": 6,
-                "hour": 16,
+                "hour": 20,
                 "minute": 0
               }
             }
           ],
           "weekdayDescriptions": [
-            "Monday: 5:00 AM – 6:00 PM",
-            "Tuesday: 5:00 AM – 6:00 PM",
-            "Wednesday: 5:00 AM – 6:00 PM",
-            "Thursday: 5:00 AM – 6:00 PM",
-            "Friday: 5:00 AM – 6:00 PM",
-            "Saturday: 6:00 AM – 4:00 PM",
-            "Sunday: 6:00 AM – 4:00 PM"
+            "Monday: 9:00 AM – 8:00 PM",
+            "Tuesday: 9:00 AM – 8:00 PM",
+            "Wednesday: 9:00 AM – 8:00 PM",
+            "Thursday: 9:00 AM – 8:00 PM",
+            "Friday: 9:00 AM – 8:00 PM",
+            "Saturday: 9:00 AM – 8:00 PM",
+            "Sunday: 9:00 AM – 7:00 PM"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJF_qyVwB_54gRsajl1BnkqCE",
+          "name": "Starbucks",
+          "address": "8480 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.442432399999998,
+          "lon": -81.47116249999999,
+          "phone": "",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 11,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:00 – 11:00 AM",
+            "Tuesday: 7:00 – 11:00 AM",
+            "Wednesday: 7:00 – 11:00 AM",
+            "Thursday: 7:00 – 11:00 AM",
+            "Friday: 7:00 – 11:00 AM",
+            "Saturday: 7:00 – 11:00 AM",
+            "Sunday: 7:00 – 11:00 AM"
           ],
           "status": "OPERATIONAL"
         }
@@ -11375,110 +11144,6 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJeTCtHctn54gRp_F9ILqVj4U",
-          "name": "Five Guys",
-          "address": "551 N Alafaya Trail, Orlando, FL 32828, USA",
-          "lat": 28.555257299999997,
-          "lon": -81.2024266,
-          "phone": "(321) 319-9579",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 0,
-                "hour": 22,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 1,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 1,
-                "hour": 22,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 2,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 2,
-                "hour": 22,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 3,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 3,
-                "hour": 22,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 4,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 4,
-                "hour": 22,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 5,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 5,
-                "hour": 23,
-                "minute": 0
-              }
-            },
-            {
-              "open": {
-                "day": 6,
-                "hour": 10,
-                "minute": 0
-              },
-              "close": {
-                "day": 6,
-                "hour": 23,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: 10:00 AM – 10:00 PM",
-            "Tuesday: 10:00 AM – 10:00 PM",
-            "Wednesday: 10:00 AM – 10:00 PM",
-            "Thursday: 10:00 AM – 10:00 PM",
-            "Friday: 10:00 AM – 11:00 PM",
-            "Saturday: 10:00 AM – 11:00 PM",
-            "Sunday: 10:00 AM – 10:00 PM"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
           "id": "ChIJg0W8USRp54gRGsgoM_NTOhA",
           "name": "Five Guys",
           "address": "11891 University Blvd, Orlando, FL 32817, USA",
@@ -11581,39 +11246,116 @@
             "Sunday: 10:00 AM – 11:00 PM"
           ],
           "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJeTCtHctn54gRp_F9ILqVj4U",
+          "name": "Five Guys",
+          "address": "551 N Alafaya Trail, Orlando, FL 32828, USA",
+          "lat": 28.555257299999997,
+          "lon": -81.2024266,
+          "phone": "(321) 319-9579",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 23,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 10:00 AM – 10:00 PM",
+            "Friday: 10:00 AM – 11:00 PM",
+            "Saturday: 10:00 AM – 11:00 PM",
+            "Sunday: 10:00 AM – 10:00 PM"
+          ],
+          "status": "OPERATIONAL"
         }
       ]
     },
     "7-eleven": {
       "label": "7-Eleven",
       "locations": [
-        {
-          "id": "ChIJu0ycIhp954gRsgLkL6Cb0lY",
-          "name": "7-Eleven",
-          "address": "9026 S Orange Ave, Orlando, FL 32824, USA",
-          "lat": 28.4356017,
-          "lon": -81.3679758,
-          "phone": "(407) 859-0853",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
         {
           "id": "ChIJKUv0SAR754gR4h_Q9HdYyV8",
           "name": "7-Eleven",
@@ -11648,6 +11390,87 @@
           "lat": 28.4076868,
           "lon": -81.4698224,
           "phone": "(407) 787-0208",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJu0ycIhp954gRsgLkL6Cb0lY",
+          "name": "7-Eleven",
+          "address": "9026 S Orange Ave, Orlando, FL 32824, USA",
+          "lat": 28.4356017,
+          "lon": -81.3679758,
+          "phone": "(407) 859-0853",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJm7dev3h_54gR6S0Bd8JE-yc",
+          "name": "7-Eleven",
+          "address": "9725 Universal Blvd, Orlando, FL 32819, USA",
+          "lat": 28.430915499999998,
+          "lon": -81.44742579999999,
+          "phone": "(407) 242-6892",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJwe7huPp-54gR0oEgdSLUM44",
+          "name": "7-Eleven",
+          "address": "5942 International Dr, Orlando, FL 32819, USA",
+          "lat": 28.461752099999998,
+          "lon": -81.46206579999999,
+          "phone": "(407) 351-9600",
           "periods": [
             {
               "open": {
@@ -11750,12 +11573,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJm7dev3h_54gR6S0Bd8JE-yc",
+          "id": "ChIJg-CKYQ9854gR6PBU8RHfxm0",
           "name": "7-Eleven",
-          "address": "9725 Universal Blvd, Orlando, FL 32819, USA",
-          "lat": 28.430915499999998,
-          "lon": -81.44742579999999,
-          "phone": "(407) 242-6892",
+          "address": "5281 S John Young Pkwy, Orlando, FL 32839, USA",
+          "lat": 28.4874655,
+          "lon": -81.41660879999999,
+          "phone": "(321) 247-5047",
           "periods": [
             {
               "open": {
@@ -11858,60 +11681,6 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJwe7huPp-54gR0oEgdSLUM44",
-          "name": "7-Eleven",
-          "address": "5942 International Dr, Orlando, FL 32819, USA",
-          "lat": 28.461752099999998,
-          "lon": -81.46206579999999,
-          "phone": "(407) 351-9600",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJcRlT9Rtl54gRL6xH4wqbXsM",
-          "name": "7-Eleven",
-          "address": "330 S Semoran Blvd, Orlando, FL 32807, USA",
-          "lat": 28.5402521,
-          "lon": -81.31090809999999,
-          "phone": "(407) 249-5778",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
           "id": "ChIJ1xyYz2V_54gRGI3OnRlYoZA",
           "name": "7-Eleven",
           "address": "6100 S Apopka Vineland Rd, Orlando, FL 32819, USA",
@@ -11966,12 +11735,93 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJvSD2a1R854gR9sokcBdeS9g",
+          "id": "ChIJg4gnMQx754gR8ASpYj6nzzA",
           "name": "7-Eleven",
-          "address": "801 W Sand Lake Rd, Orlando, FL 32809, USA",
-          "lat": 28.4513546,
-          "lon": -81.3875401,
-          "phone": "(407) 858-7379",
+          "address": "1823 S Orange Ave, Orlando, FL 32806, USA",
+          "lat": 28.520552799999997,
+          "lon": -81.37598679999999,
+          "phone": "(407) 423-0965",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJSdjwELd_54gRlmFc128AYKg",
+          "name": "7-Eleven",
+          "address": "6777 Westwood Blvd, Orlando, FL 32821, USA",
+          "lat": 28.411472699999997,
+          "lon": -81.47173339999999,
+          "phone": "(407) 361-6032",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJcRlT9Rtl54gRL6xH4wqbXsM",
+          "name": "7-Eleven",
+          "address": "330 S Semoran Blvd, Orlando, FL 32807, USA",
+          "lat": 28.5402521,
+          "lon": -81.31090809999999,
+          "phone": "(407) 249-5778",
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "status": "OPERATIONAL"
+        },
+        {
+          "id": "ChIJHSM1mTF554gR8jC-22xoKOQ",
+          "name": "7-Eleven",
+          "address": "5698 L B McLeod Rd @Mcleod, Orlando, FL 32811, USA",
+          "lat": 28.5043551,
+          "lon": -81.4582817,
+          "phone": "(407) 296-7800",
           "periods": [
             {
               "open": {
@@ -12020,93 +11870,12 @@
           "status": "OPERATIONAL"
         },
         {
-          "id": "ChIJN15-aFBj54gRSZg6hXzW_g0",
+          "id": "ChIJTVxLvFl654gR8xZqjDc3SRc",
           "name": "7-Eleven",
-          "address": "5203 Conway Rd, Orlando, FL 32812, USA",
-          "lat": 28.480030799999998,
-          "lon": -81.3299497,
-          "phone": "(407) 856-2266",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJg4gnMQx754gR8ASpYj6nzzA",
-          "name": "7-Eleven",
-          "address": "1823 S Orange Ave, Orlando, FL 32806, USA",
-          "lat": 28.520552799999997,
-          "lon": -81.37598679999999,
-          "phone": "(407) 423-0965",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ-TyDhy5j54gRyTtKbYkobgg",
-          "name": "7-Eleven",
-          "address": "@ Mccoy Boulevard, 3911 McCoy Rd, Orlando, FL 32812, USA",
-          "lat": 28.4519263,
-          "lon": -81.3339251,
-          "phone": "(689) 351-4172",
-          "periods": [
-            {
-              "open": {
-                "day": 0,
-                "hour": 0,
-                "minute": 0
-              }
-            }
-          ],
-          "weekdayDescriptions": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-          ],
-          "status": "OPERATIONAL"
-        },
-        {
-          "id": "ChIJ5dP-hbB-54gR3uhJmUYBZR4",
-          "name": "7-Eleven",
-          "address": "5300 Radebaugh Wy, Orlando, FL 32811, USA",
-          "lat": 28.4859874,
-          "lon": -81.44193279999999,
-          "phone": "(407) 345-8437",
+          "address": "605 W Colonial Dr, Orlando, FL 32804, USA",
+          "lat": 28.553216,
+          "lon": -81.38796959999999,
+          "phone": "(407) 650-1965",
           "periods": [
             {
               "open": {
